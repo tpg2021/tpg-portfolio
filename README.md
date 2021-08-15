@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TechnoPhonixGlobal Portfolio
 
 You can use the [editor on GitHub](https://github.com/tpg2021/tpg-portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
